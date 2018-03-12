@@ -177,7 +177,7 @@ while url is not None:
     datums = fetch_activities(url)
     url = process_activities(datums, face_detective)
     # 注意节操，爬虫休息间隔不要调小
-    time.sleep(2)
+    time.sleep(5)
 
 
     # vim: set ts=4 sw=4 sts=4 tw=100 et:
