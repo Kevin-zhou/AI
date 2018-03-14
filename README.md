@@ -13,5 +13,7 @@
 	安装 Python 3，Download Python 
 	安装 requests、lxml、 baidu-aip 库，都可以通过 pip 安装，一行命令
 	申请百度云检测服务，免费。人脸识别-百度AI 
-#huaban 
+	
+	
+# huaban 
 	去花瓣 美女专题  爬取女性图片
