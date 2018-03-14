@@ -1,4 +1,4 @@
-# AI
+# AI 01
   python 接入 百度AI 人脸识别  爬虫  获取美女图片  并打分
  
 	1 数据源知乎 话题『美女』下所有问题中回答所出现的图片
@@ -13,3 +13,5 @@
 	安装 Python 3，Download Python 
 	安装 requests、lxml、 baidu-aip 库，都可以通过 pip 安装，一行命令
 	申请百度云检测服务，免费。人脸识别-百度AI 
+#huaban 
+	去花瓣 美女专题  爬取女性图片
